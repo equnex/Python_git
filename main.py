@@ -1,4 +1,7 @@
 def main():
+    """
+    Документация
+    """
     print("Hello from python-git!!!!!!")
     print("Изменение из гитхаба!")
 
